@@ -11,9 +11,18 @@ h1 {
 }
 h2 {
     text-align: center;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Roboto', sans-serif;
+}
+h3 {
+    color: rgb(1, 48, 19);
+}
+p {
+    font-size: 25px;
 }
 .bold {
-    font-size: 36px;
+    font-size: 23px;
+    color: rgb(63, 26, 1);
 }
 @font-face {
 	font-family: 'Teddy Bear';
